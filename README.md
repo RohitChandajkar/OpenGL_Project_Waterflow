@@ -38,9 +38,10 @@ The project aims to visualize how water would flow across a 3D terrain. By loadi
 
 - C++ compiler with C++17 support
 - OpenGL (3.3 or higher)
-- GLFW (OpenGL Framework)
-- GLM (OpenGL Mathematics)
-- Assimp (Open Asset Import Library for loading STL files)
+-Qt framework (>=5.0)
+- QOpenGLWidget
+- QOpenGLFunctions
+- QOpenGLBuffer
 
 ## Contributing
 
