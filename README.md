@@ -16,7 +16,7 @@ The project aims to visualize how water would flow across a 3D terrain. By loadi
 
 1. **Clone the Repository:**
     ```
- git clone https://github.com/your-username/waterflow-visualization.git
+ git clone https://github.com/RohitChandajkar/OpenGL_Project_Waterflow.git
     ```
 
 2. **Compile the Source Code:**
