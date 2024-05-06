@@ -46,7 +46,3 @@ The project aims to visualize how water would flow across a 3D terrain. By loadi
 ## Contributing
 
 Contributions are welcome! Feel free to open issues or pull requests for improvements or fixes.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
